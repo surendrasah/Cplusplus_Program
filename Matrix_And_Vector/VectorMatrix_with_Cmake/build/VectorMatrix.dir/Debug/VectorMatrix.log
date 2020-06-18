@@ -1,0 +1,6 @@
+﻿  Main.cpp
+C:\Users\ssah\Documents\MyWork\Learning during Altran\programming material\C++, Cmake\Matrix and Vector_interview question\VectorMatrix\VectorMatrix_with_Cmake\Main.cpp(76): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ssah\Documents\MyWork\Learning during Altran\programming material\C++, Cmake\Matrix and Vector_interview question\VectorMatrix\VectorMatrix_with_Cmake\Main.cpp(87): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ssah\Documents\MyWork\Learning during Altran\programming material\C++, Cmake\Matrix and Vector_interview question\VectorMatrix\VectorMatrix_with_Cmake\Main.cpp(97): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ssah\Documents\MyWork\Learning during Altran\programming material\C++, Cmake\Matrix and Vector_interview question\VectorMatrix\VectorMatrix_with_Cmake\Main.cpp(107): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  VectorMatrix.vcxproj -> C:\Users\ssah\Documents\Github_Repos\Cplusplus_program\Matrix_And_Vector\VectorMatrix_with_Cmake\build\Debug\VectorMatrix.exe

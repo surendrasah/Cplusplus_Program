@@ -1,0 +1,5 @@
+﻿  Car.cpp
+c:\users\ssah\source\repos\cardrive_fix\cardrive_fix\car.cpp(14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Main.cpp
+  Generating Code...
+  CarDrive_Fix.vcxproj -> C:\Users\ssah\source\repos\CarDrive_Fix\x64\Debug\CarDrive_Fix.exe

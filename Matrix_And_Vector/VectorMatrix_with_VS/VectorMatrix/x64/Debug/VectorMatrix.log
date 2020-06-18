@@ -1,0 +1,11 @@
+﻿  Main.cpp
+c:\users\ssah\documents\github_repos\cplusplus_program\matrix_and_vector\vectormatrix_with_vs\vectormatrix\main.cpp(75): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\ssah\documents\github_repos\cplusplus_program\matrix_and_vector\vectormatrix_with_vs\vectormatrix\main.cpp(86): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\ssah\documents\github_repos\cplusplus_program\matrix_and_vector\vectormatrix_with_vs\vectormatrix\main.cpp(96): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\ssah\documents\github_repos\cplusplus_program\matrix_and_vector\vectormatrix_with_vs\vectormatrix\main.cpp(106): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  VectorMatrix.cpp
+c:\users\ssah\documents\github_repos\cplusplus_program\matrix_and_vector\vectormatrix_with_vs\vectormatrix\vectormatrix.cpp(15): warning C4018: '<': signed/unsigned mismatch
+c:\users\ssah\documents\github_repos\cplusplus_program\matrix_and_vector\vectormatrix_with_vs\vectormatrix\vectormatrix.cpp(18): warning C4018: '<': signed/unsigned mismatch
+c:\users\ssah\documents\github_repos\cplusplus_program\matrix_and_vector\vectormatrix_with_vs\vectormatrix\vectormatrix.cpp(53): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  VectorMatrix.vcxproj -> C:\Users\ssah\Documents\Github_Repos\Cplusplus_program\Matrix_And_Vector\VectorMatrix_with_VS\x64\Debug\VectorMatrix.exe

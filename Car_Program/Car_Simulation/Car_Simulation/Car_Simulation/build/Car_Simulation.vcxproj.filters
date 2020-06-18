@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\ssah\Documents\MyWork\ProgramC++\Car_Simulation\Car_Simulation\Car_Simulation.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ssah\Documents\MyWork\ProgramC++\Car_Simulation\Car_Simulation\Car_Sim_Eval.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\ssah\Documents\MyWork\ProgramC++\Car_Simulation\Car_Simulation\Car_Sim_Eval.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\ssah\Documents\MyWork\ProgramC++\Car_Simulation\Car_Simulation\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{C90E713A-636A-3A43-822F-96785B1759D1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{96FC7CFA-8B2B-3B46-BFE4-3BAF5A5EAC3A}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

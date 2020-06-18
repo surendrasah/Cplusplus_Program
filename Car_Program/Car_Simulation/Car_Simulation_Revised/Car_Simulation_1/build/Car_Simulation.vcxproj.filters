@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\ssah\Documents\MyWork\Learning during Altran\programming material\C++, Cmake\Car_Simulation\Car_Simulation_1\Car_Simulation.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ssah\Documents\MyWork\Learning during Altran\programming material\C++, Cmake\Car_Simulation\Car_Simulation_1\Car_Sim_Eval.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ssah\Documents\MyWork\Learning during Altran\programming material\C++, Cmake\Car_Simulation\Car_Simulation_1\pch.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\ssah\Documents\MyWork\Learning during Altran\programming material\C++, Cmake\Car_Simulation\Car_Simulation_1\Car_Sim_Eval.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ssah\Documents\MyWork\Learning during Altran\programming material\C++, Cmake\Car_Simulation\Car_Simulation_1\pch.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\ssah\Documents\MyWork\Learning during Altran\programming material\C++, Cmake\Car_Simulation\Car_Simulation_1\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{ECE49D58-FA05-3DD0-8F92-0C683B6BABB6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{429D040A-1689-35A6-8BBE-95DAE1CF8BF6}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

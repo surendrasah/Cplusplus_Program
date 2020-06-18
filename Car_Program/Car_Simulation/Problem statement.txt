@@ -1,0 +1,53 @@
+The expected goals in the approach of this evaluation-work are the following:
+Independance Independant approach solving easy tasks (research possible if required).
+Polymorphie Use polymorphie if possible.
+c++ standards Use at least one feature since c++11.
+Tracing The requirement id’s like REQ_ID_1 are to be mapped to the source code inside a
+comment.
+
+Task
+To simplify this task, the following requirements and explainations are not correct physics.
+4.1 Build environment
+A environment to compile and run the source code have to be created. A simple CMakeLists.txt
+file is sufficient. Building can be done via Console, any additional tooling / editors are allowed
+if cmake is used.
+4.2 Requirements
+Three cars have to be simulated regarding fuel consumption.
+4.2.1 REQ_ID_1
+Fuel consumption is calculated as the following formular:
+fuel (distance) = distance * roll_resistance + distance * wind_resistance, with the distance
+given in meters.
+4.2.2 Similarities
+4.2.2.1 REQ_ID_2
+Roll resistance is calculated with a factor of 0,75 multiplied with the weight in kg of the vehicle.
+4.2.2.2 REQ_ID_3
+Wind resistance is calculated with a factor of 0,2 multiplied with the car height in meters.
+4.2.3 Convertable car
+4.2.3.1 REQ_CAR_4
+The convertable car has a height of 1.5 meters.
+4.2.3.2 REQ_CAR_5
+The convertable car has a weight of 500kg.
+4.2.4 Van
+4.2.4.1 REQ_VAN_6
+The van has a height of 1,5 meters.
+4.2.4.2 REQ_VAN_7
+The van has a weight of 4.000kg.
+4.2.5 Truck
+4.2.5.1 REQ_TRUCK_8
+The truck has a height of 4 meters.
+4.2.5.2 REQ_TRUCK_9
+The truck as a weight of 5.000kg.
+4.2.5.3 REQ_TRUCK_10
+The truck is capable of attaching an trailer.
+4.2.5.4 REQ_TRUCK_11
+The empty trailer weights 500kg.
+4.2.6 REQ_TRUCK_12
+The full trailer weights 30.000kg.
+4.2.7 REQ_TRUCK_13
+The trailer_resistance is calculated with a factor of 0,05 multiplied with the trailer weight in kg.
+4.2.7.1 REQ_TRUCK_14
+With an attachted trailer the fuel consumption formular is:
+fuel (distance) = distance * roll_resistance + distance * wind_resistance + distance * trailer_-
+resistance
+4.3 Execute
+Run the compiled program and print the result for a distance of 42.195 km.

@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\ssah\Documents\MyWork\Learning during Altran\programming material\C++, Cmake\Matrix and Vector_interview question\VectorMatrix\VectorMatrix_with_Cmake\Main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ssah\Documents\MyWork\Learning during Altran\programming material\C++, Cmake\Matrix and Vector_interview question\VectorMatrix\VectorMatrix_with_Cmake\VectorMatrix.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\ssah\Documents\MyWork\Learning during Altran\programming material\C++, Cmake\Matrix and Vector_interview question\VectorMatrix\VectorMatrix_with_Cmake\VectorMatrix.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\ssah\Documents\MyWork\Learning during Altran\programming material\C++, Cmake\Matrix and Vector_interview question\VectorMatrix\VectorMatrix_with_Cmake\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{910E9A40-D979-315A-AA64-776DA6FBB04B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4EE1C2BC-32D3-32DA-BAE0-837E285A588C}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

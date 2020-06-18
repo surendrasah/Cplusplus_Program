@@ -1,0 +1,6 @@
+﻿  Building Custom Rule C:/Users/ssah/Documents/Github_Repos/CarDrive_Fix/CarDrive_Fix_with_CMake/CMakeLists.txt
+  Main.cpp
+  Car.cpp
+C:\Users\ssah\Documents\Github_Repos\CarDrive_Fix\CarDrive_Fix_with_CMake\Car.cpp(14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  CarDrive_Fix.vcxproj -> C:\Users\ssah\Documents\Github_Repos\CarDrive_Fix\CarDrive_Fix_with_CMake\build\Debug\CarDrive_Fix.exe
