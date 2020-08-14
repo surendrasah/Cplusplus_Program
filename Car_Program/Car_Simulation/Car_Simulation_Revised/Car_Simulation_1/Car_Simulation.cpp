@@ -54,6 +54,7 @@ int main()
 	}
 
 	else	std::cout << "Press anykey to terminate the program";
+	delete vehicleptr;
 
 	return 0;
 }
